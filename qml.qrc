@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>QML/SideBar.qml</file>
+        <file>QML/Utils/Dimension.qml</file>
+        <file>QML/UI_Elements/CircleImage.qml</file>
+    </qresource>
+</RCC>
