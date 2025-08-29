@@ -1,6 +1,7 @@
+pragma Singleton
 import QtQuick 2.15
 
-Item {
+QtObject {
     // Font size, in pixelSize
     readonly property int fontH1: 36
     readonly property int fontH2: 24
@@ -14,4 +15,8 @@ Item {
     readonly property size imageLarge: Qt.size(30, 30)
     readonly property size imageMedium: Qt.size(20, 20)
     readonly property size imageSmall: Qt.size(15, 15)
+
+    //size Elements
+    readonly property int widthSideBarOpen: 200
+    readonly property int widthSideBarClosed: 35
 }

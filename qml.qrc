@@ -4,5 +4,13 @@
         <file>QML/SideBar.qml</file>
         <file>QML/Utils/Dimension.qml</file>
         <file>QML/UI_Elements/CircleImage.qml</file>
+        <file>QML/icons/avatarUser.jpg</file>
+        <file>QML/Utils/UtilFunctions.js</file>
+        <file>QML/icons/icon_app.svg</file>
+        <file>QML/icons/chevron-down.svg</file>
+        <file>QML/icons/ic_notification.svg</file>
+        <file>QML/icons/ic_notification_active.svg</file>
+        <file>QML/icons/ic_sidebar.svg</file>
+        <file>QML/Utils/Style.qml</file>
     </qresource>
 </RCC>

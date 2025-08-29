@@ -10,7 +10,7 @@ Window {
     visible: true
 
     visibility: Qt.Window
-    title: qsTr("ToDoIst")
+    title: qsTr("Todoist")
 
     width: Screen.width * 0.5
     height: Screen.height * 0.4
